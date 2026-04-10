@@ -8,7 +8,7 @@ This is useful in the following cases:
 
 - If you already have a device logged in and want to log in on another device
 - If you want to reinstall Piko
-- If you want to log into a cloned APK
+- ~~If you want to log into a cloned APK~~
 - If you have another rooted device and can log in normally
 
 Tokens and other necessary data will be exported in JSON format.  
